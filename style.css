@@ -1,0 +1,26 @@
+body {
+    background: radial-gradient(turquoise, mediumturquoise, lightseagreen, mediumseagreen, seagreen);
+    color: orangered;
+    text-align: center;
+}
+
+input {
+    width: 60%;
+    text-align: center;
+    background-color: mediumspringgreen;
+    border: 7px red ridge;
+}
+
+h1,
+#noo {
+    border: 7px red ridge;
+    width: 60%;
+    background-color: mediumspringgreen;
+    text-align: center;
+    margin-left: 255px;
+}
+
+canvas {
+    border: 7px red ridge;
+    margin-top: 6cm;
+}
